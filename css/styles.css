@@ -65,7 +65,7 @@ a {
    /* width: 1440px; */
     min-height: 72px;
     display: block;
-    /* border-bottom: 1px solid #E7E9FC; */
+    border-bottom: 1px solid #E7E9FC;
     background-color: #ffffff;
     position: fixed;
     width: 100%;
